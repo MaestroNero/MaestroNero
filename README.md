@@ -70,6 +70,10 @@
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=MaestroNero&theme=dark"/>
 </p>
 
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaestroNero&theme=github-compact&hide_border=true" />
+</p>
+
 ---
 
 <p align="center">
