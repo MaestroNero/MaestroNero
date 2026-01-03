@@ -67,11 +67,7 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MaestroNero&show_icons=true&theme=dark&hide_border=true"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaestroNero&layout=compact&theme=dark&hide_border=true"/>
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=MaestroNero&theme=dark"/>
 </p>
 
 ---
